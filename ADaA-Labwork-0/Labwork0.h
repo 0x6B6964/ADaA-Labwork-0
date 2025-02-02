@@ -3,6 +3,8 @@
 
 class Labwork0
 {
+public:
+	static int** Task(int A, int B, int& outN);
 };
 
 #endif
